@@ -1,0 +1,78 @@
+/* From WBVG
+check out my blog
+http//:hhhhh.com
+ */
+
+Body {
+
+font-family: "Times New Roman", serif;
+}
+
+a { text-decoration: none;}
+a:hover {
+color: #20222a;
+}
+
+
+h1 {
+color: #999;
+font-size: 30px;
+}
+
+h2 {
+color: #999;
+font-size: 22px;
+}
+
+h3 {
+/*color: #36f;*/
+font-size: 16px;
+}
+
+download a {
+  color: #20222a;
+}
+
+p {color: #656565;
+font-size: 12px;
+line-height: 17px;}
+
+
+
+#container {
+width:960px;
+margin: auto;
+}
+
+.pic1{
+  margin-bottom: 10px;
+}
+.pic2{
+  margin-bottom: 10px;
+}
+
+ul{
+margin: 0;
+padding: 0;
+}
+
+li {
+  list-style: none;
+  display:inline;
+}
+
+ul li img {
+border: 4px solid #ccc;
+width: 23.8%;
+}
+
+ul li:hover{
+  opacity: 0.5;
+}
+
+footer {
+  margin: 5px 0 10px 0;
+  color: #999;
+
+}
+
